@@ -1,0 +1,12 @@
+MATLAB Simulation (along with all relevant testcases and requirements) of below applications:
+1. EV (Speed and Torque Control)
+2. Drone (Speed and Torque Control)
+3. Servo (Position Control)
+
+Embedded Implementation:
+1. ST Eval Board (5 KW)
+2. ESC Implementation
+3. Servo Implementation
+
+Hardware:
+Finalization of ESC Hardware requirements (as per Scorpian ESC reference). 
